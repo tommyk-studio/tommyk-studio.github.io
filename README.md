@@ -3,7 +3,7 @@
 A personal creative platform showcasing art, sneakers, style & culture.
 
 ## Live Site
-[tommyk-studio](https://thomaskumah97-code.github.io/tommyk-studio/)
+[tommyk-studio](tommyk-studio.github.io//)
 
 ## About
 Tommy_k Studio is built for people who express thier personality through visuals. No caption. No explanation. Just art, fashion & style that speaks for itself.
